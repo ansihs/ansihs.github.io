@@ -1,0 +1,14 @@
+### Node / Yarn ###
+yarn-error.log
+node_modules
+
+### IntelliJ ###
+.idea
+*.iml
+
+### Sass ###
+.sass-cache
+*.css.map
+
+### Project specifics ###
+dist
